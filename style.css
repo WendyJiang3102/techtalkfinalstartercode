@@ -1,0 +1,22 @@
+#profile{
+    width:200px;
+    border: 7px solid white;
+    border-radius: 20px;
+}
+header{
+    color:white;
+    font-family: 'Lobster Two', cursive;
+}
+body{
+    text-align:center;
+    background-image: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-11.jpg);
+}
+#Q{
+    color:white;
+}
+#value{
+    color:black;
+}
+#subit{
+    color:black;
+}
