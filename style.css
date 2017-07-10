@@ -1,6 +1,6 @@
 #profile{
     width:200px;
-    border: 7px solid white;
+    border: 5px solid white;
     border-radius: 20px;
 }
 header{
@@ -16,7 +16,13 @@ body{
 }
 #value{
     color:black;
+    border-radius:10px;
 }
-#subit{
+#submit{
     color:black;
+    border-radius:10px;
+}
+#result{
+    color:white;
+    font-size:25px;
 }
